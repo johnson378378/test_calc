@@ -1,1 +1,1 @@
-Start-Process ms-calculator
+whoami
